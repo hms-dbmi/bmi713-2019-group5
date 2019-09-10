@@ -2,5 +2,6 @@
 ## Team Members
 - akuisara
 - aj088
--xxxx
+- test
+- pbannister123
 ## GitHub for Open Science
